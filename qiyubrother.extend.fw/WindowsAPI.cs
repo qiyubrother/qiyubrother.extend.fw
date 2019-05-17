@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace qiyubrother.extend.fw
 {
-    public class Class1
+    public class WindowsAPI
     {
+
     }
 }
